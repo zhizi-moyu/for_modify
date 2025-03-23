@@ -85,338 +85,170 @@ solid OpenSCAD_Model
   endfacet
   facet normal 1 -0 0
     outer loop
-      vertex 25 -25 -11
-      vertex 25 25 -13
-      vertex 25 25 -11
+      vertex 25 -25 -19
+      vertex 25 25 -21
+      vertex 25 25 -19
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-      vertex 25 25 -13
-      vertex 25 -25 -11
-      vertex 25 -25 -13
+      vertex 25 25 -21
+      vertex 25 -25 -19
+      vertex 25 -25 -21
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
-      vertex -25 25 -11
-      vertex 25 -25 -11
-      vertex 25 25 -11
+      vertex -25 25 -19
+      vertex 25 -25 -19
+      vertex 25 25 -19
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 25 -25 -11
-      vertex -25 25 -11
-      vertex -25 -25 -11
+      vertex 25 -25 -19
+      vertex -25 25 -19
+      vertex -25 -25 -19
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-      vertex -25 -25 -13
-      vertex 25 25 -13
-      vertex 25 -25 -13
+      vertex -25 -25 -21
+      vertex 25 25 -21
+      vertex 25 -25 -21
     endloop
   endfacet
   facet normal -0 0 -1
     outer loop
-      vertex 25 25 -13
-      vertex -25 -25 -13
-      vertex -25 25 -13
+      vertex 25 25 -21
+      vertex -25 -25 -21
+      vertex -25 25 -21
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex -25 -25 -13
-      vertex -25 25 -11
-      vertex -25 25 -13
+      vertex -25 -25 -21
+      vertex -25 25 -19
+      vertex -25 25 -21
     endloop
   endfacet
   facet normal -1 -0 0
     outer loop
-      vertex -25 25 -11
-      vertex -25 -25 -13
-      vertex -25 -25 -11
+      vertex -25 25 -19
+      vertex -25 -25 -21
+      vertex -25 -25 -19
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-      vertex 25 25 -13
-      vertex -25 25 -11
-      vertex 25 25 -11
+      vertex 25 25 -21
+      vertex -25 25 -19
+      vertex 25 25 -19
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-      vertex -25 25 -11
-      vertex 25 25 -13
-      vertex -25 25 -13
+      vertex -25 25 -19
+      vertex 25 25 -21
+      vertex -25 25 -21
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex -25 -25 -13
-      vertex 25 -25 -11
-      vertex -25 -25 -11
+      vertex -25 -25 -21
+      vertex 25 -25 -19
+      vertex -25 -25 -19
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-      vertex 25 -25 -11
-      vertex -25 -25 -13
-      vertex 25 -25 -13
+      vertex 25 -25 -19
+      vertex -25 -25 -21
+      vertex 25 -25 -21
     endloop
   endfacet
   facet normal 1 -0 0
     outer loop
-      vertex 25 -25 -23
-      vertex 25 25 -25
-      vertex 25 25 -23
+      vertex 25 -25 -39
+      vertex 25 25 -41
+      vertex 25 25 -39
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-      vertex 25 25 -25
-      vertex 25 -25 -23
-      vertex 25 -25 -25
+      vertex 25 25 -41
+      vertex 25 -25 -39
+      vertex 25 -25 -41
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
-      vertex -25 25 -23
-      vertex 25 -25 -23
-      vertex 25 25 -23
+      vertex -25 25 -39
+      vertex 25 -25 -39
+      vertex 25 25 -39
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 25 -25 -23
-      vertex -25 25 -23
-      vertex -25 -25 -23
+      vertex 25 -25 -39
+      vertex -25 25 -39
+      vertex -25 -25 -39
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-      vertex -25 -25 -25
-      vertex 25 25 -25
-      vertex 25 -25 -25
+      vertex -25 -25 -41
+      vertex 25 25 -41
+      vertex 25 -25 -41
     endloop
   endfacet
   facet normal -0 0 -1
     outer loop
-      vertex 25 25 -25
-      vertex -25 -25 -25
-      vertex -25 25 -25
+      vertex 25 25 -41
+      vertex -25 -25 -41
+      vertex -25 25 -41
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex -25 -25 -25
-      vertex -25 25 -23
-      vertex -25 25 -25
+      vertex -25 -25 -41
+      vertex -25 25 -39
+      vertex -25 25 -41
     endloop
   endfacet
   facet normal -1 -0 0
     outer loop
-      vertex -25 25 -23
-      vertex -25 -25 -25
-      vertex -25 -25 -23
+      vertex -25 25 -39
+      vertex -25 -25 -41
+      vertex -25 -25 -39
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-      vertex 25 25 -25
-      vertex -25 25 -23
-      vertex 25 25 -23
+      vertex 25 25 -41
+      vertex -25 25 -39
+      vertex 25 25 -39
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-      vertex -25 25 -23
-      vertex 25 25 -25
-      vertex -25 25 -25
+      vertex -25 25 -39
+      vertex 25 25 -41
+      vertex -25 25 -41
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex -25 -25 -25
-      vertex 25 -25 -23
-      vertex -25 -25 -23
+      vertex -25 -25 -41
+      vertex 25 -25 -39
+      vertex -25 -25 -39
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-      vertex 25 -25 -23
-      vertex -25 -25 -25
-      vertex 25 -25 -25
-    endloop
-  endfacet
-  facet normal 1 -0 0
-    outer loop
-      vertex 25 -25 -35
-      vertex 25 25 -37
-      vertex 25 25 -35
-    endloop
-  endfacet
-  facet normal 1 0 0
-    outer loop
-      vertex 25 25 -37
-      vertex 25 -25 -35
-      vertex 25 -25 -37
-    endloop
-  endfacet
-  facet normal -0 0 1
-    outer loop
-      vertex -25 25 -35
-      vertex 25 -25 -35
-      vertex 25 25 -35
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-      vertex 25 -25 -35
-      vertex -25 25 -35
-      vertex -25 -25 -35
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -25 -25 -37
-      vertex 25 25 -37
-      vertex 25 -25 -37
-    endloop
-  endfacet
-  facet normal -0 0 -1
-    outer loop
-      vertex 25 25 -37
-      vertex -25 -25 -37
-      vertex -25 25 -37
-    endloop
-  endfacet
-  facet normal -1 0 0
-    outer loop
-      vertex -25 -25 -37
-      vertex -25 25 -35
-      vertex -25 25 -37
-    endloop
-  endfacet
-  facet normal -1 -0 0
-    outer loop
-      vertex -25 25 -35
-      vertex -25 -25 -37
-      vertex -25 -25 -35
-    endloop
-  endfacet
-  facet normal 0 1 -0
-    outer loop
-      vertex 25 25 -37
-      vertex -25 25 -35
-      vertex 25 25 -35
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-      vertex -25 25 -35
-      vertex 25 25 -37
-      vertex -25 25 -37
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex -25 -25 -37
-      vertex 25 -25 -35
-      vertex -25 -25 -35
-    endloop
-  endfacet
-  facet normal 0 -1 -0
-    outer loop
-      vertex 25 -25 -35
-      vertex -25 -25 -37
-      vertex 25 -25 -37
-    endloop
-  endfacet
-  facet normal 1 -0 0
-    outer loop
-      vertex 25 -25 -47
-      vertex 25 25 -49
-      vertex 25 25 -47
-    endloop
-  endfacet
-  facet normal 1 0 0
-    outer loop
-      vertex 25 25 -49
-      vertex 25 -25 -47
-      vertex 25 -25 -49
-    endloop
-  endfacet
-  facet normal -0 0 1
-    outer loop
-      vertex -25 25 -47
-      vertex 25 -25 -47
-      vertex 25 25 -47
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-      vertex 25 -25 -47
-      vertex -25 25 -47
-      vertex -25 -25 -47
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -25 -25 -49
-      vertex 25 25 -49
-      vertex 25 -25 -49
-    endloop
-  endfacet
-  facet normal -0 0 -1
-    outer loop
-      vertex 25 25 -49
-      vertex -25 -25 -49
-      vertex -25 25 -49
-    endloop
-  endfacet
-  facet normal -1 0 0
-    outer loop
-      vertex -25 -25 -49
-      vertex -25 25 -47
-      vertex -25 25 -49
-    endloop
-  endfacet
-  facet normal -1 -0 0
-    outer loop
-      vertex -25 25 -47
-      vertex -25 -25 -49
-      vertex -25 -25 -47
-    endloop
-  endfacet
-  facet normal 0 1 -0
-    outer loop
-      vertex 25 25 -49
-      vertex -25 25 -47
-      vertex 25 25 -47
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-      vertex -25 25 -47
-      vertex 25 25 -49
-      vertex -25 25 -49
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex -25 -25 -49
-      vertex 25 -25 -47
-      vertex -25 -25 -47
-    endloop
-  endfacet
-  facet normal 0 -1 -0
-    outer loop
-      vertex 25 -25 -47
-      vertex -25 -25 -49
-      vertex 25 -25 -49
+      vertex 25 -25 -39
+      vertex -25 -25 -41
+      vertex 25 -25 -41
     endloop
   endfacet
   facet normal 1 -0 0
@@ -501,6 +333,174 @@ solid OpenSCAD_Model
       vertex 25 -25 -59
       vertex -25 -25 -61
       vertex 25 -25 -61
+    endloop
+  endfacet
+  facet normal 1 -0 0
+    outer loop
+      vertex 25 -25 -79
+      vertex 25 25 -81
+      vertex 25 25 -79
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 25 25 -81
+      vertex 25 -25 -79
+      vertex 25 -25 -81
+    endloop
+  endfacet
+  facet normal -0 0 1
+    outer loop
+      vertex -25 25 -79
+      vertex 25 -25 -79
+      vertex 25 25 -79
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 25 -25 -79
+      vertex -25 25 -79
+      vertex -25 -25 -79
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -25 -25 -81
+      vertex 25 25 -81
+      vertex 25 -25 -81
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 25 25 -81
+      vertex -25 -25 -81
+      vertex -25 25 -81
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -25 -25 -81
+      vertex -25 25 -79
+      vertex -25 25 -81
+    endloop
+  endfacet
+  facet normal -1 -0 0
+    outer loop
+      vertex -25 25 -79
+      vertex -25 -25 -81
+      vertex -25 -25 -79
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 25 25 -81
+      vertex -25 25 -79
+      vertex 25 25 -79
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -25 25 -79
+      vertex 25 25 -81
+      vertex -25 25 -81
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -25 -25 -81
+      vertex 25 -25 -79
+      vertex -25 -25 -79
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+      vertex 25 -25 -79
+      vertex -25 -25 -81
+      vertex 25 -25 -81
+    endloop
+  endfacet
+  facet normal 1 -0 0
+    outer loop
+      vertex 25 -25 -99
+      vertex 25 25 -101
+      vertex 25 25 -99
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 25 25 -101
+      vertex 25 -25 -99
+      vertex 25 -25 -101
+    endloop
+  endfacet
+  facet normal -0 0 1
+    outer loop
+      vertex -25 25 -99
+      vertex 25 -25 -99
+      vertex 25 25 -99
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 25 -25 -99
+      vertex -25 25 -99
+      vertex -25 -25 -99
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -25 -25 -101
+      vertex 25 25 -101
+      vertex 25 -25 -101
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+      vertex 25 25 -101
+      vertex -25 -25 -101
+      vertex -25 25 -101
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -25 -25 -101
+      vertex -25 25 -99
+      vertex -25 25 -101
+    endloop
+  endfacet
+  facet normal -1 -0 0
+    outer loop
+      vertex -25 25 -99
+      vertex -25 -25 -101
+      vertex -25 -25 -99
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 25 25 -101
+      vertex -25 25 -99
+      vertex 25 25 -99
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -25 25 -99
+      vertex 25 25 -101
+      vertex -25 25 -101
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -25 -25 -101
+      vertex 25 -25 -99
+      vertex -25 -25 -99
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+      vertex 25 -25 -99
+      vertex -25 -25 -101
+      vertex 25 -25 -101
     endloop
   endfacet
 endsolid OpenSCAD_Model
